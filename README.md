@@ -1,16 +1,36 @@
-## Hi there 👋
+### Hi there, I'm Amul 👋
 
-<!--
-**aamthx/aamthx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about **Web Development** and **Computer Networking**. I enjoy building websites, solving network issues, and continuously learning new tech that improves both.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 **Tools & Skills**
+
+- 💻 VS Code, HTML, CSS
+- 🌐 Networking & Troubleshooting
+- 🧰 Basic Web Servers (nginx)
+
+---
+
+📚 **Currently Learning**
+
+- Frontend: HTML, CSS, React.js ⚛️  
+- Backend: Web server configuration with nginx 🌐  
+- Networking: Cisco & Network Architecture 🔧
+
+---
+
+📈 **GitHub Stats**
+
+![Amul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aamthx&show_icons=true&theme=gruvbox)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aamthx&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+📫 **Reach Me**
+
+- ✉️ Email: [amulhasan277@gmail.com](mailto:amulhasan277@gmail.com)
+
+---
+
+> "Keep learning, keep building."
