@@ -73,8 +73,8 @@ Installed & documented RTGS VSAT systems in remote NTT areas.
 
 ## 📈 GitHub Stats
 
-![Hasan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=gruvbox)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+![Hasan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aamthx&show_icons=true&theme=gruvbox)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aamthx&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
